@@ -1,0 +1,9 @@
+2023-08-06 04:56:13.777336 - Initialized conversion of CBT506
+2023-08-06 04:56:13.832004 - Received CBT.V505.FILE506.PDS from FILE506.XMI 
+2023-08-06 04:56:13.834493 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE506.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:56:13.835528 - Found $$INDEX.txt (text/plain) in CBT.V505.FILE506.PDS, moved to PDS/$$INDEX
+2023-08-06 04:56:13.836530 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE506.PDS, moved to PDS/$$NOTE
+2023-08-06 04:56:13.837543 - Found @FILE506.txt (text/plain) in CBT.V505.FILE506.PDS, moved to PDS/@FILE506
+2023-08-06 04:56:13.838587 - Found ESOGTHLD.rexx (text/plain) in CBT.V505.FILE506.PDS, moved to PDS/ESOGTHLD
+2023-08-06 04:56:13.839600 - Found ESOREALC.rexx (text/plain) in CBT.V505.FILE506.PDS, moved to PDS/ESOREALC
+2023-08-06 04:56:13.840507 - Found GETPTF.rexx (text/plain) in CBT.V505.FILE506.PDS, moved to PDS/GETPTF
